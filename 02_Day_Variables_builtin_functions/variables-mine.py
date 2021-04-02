@@ -26,8 +26,8 @@ print(name, type(name))
 print(long_name, type(long_name))
 print(nickname, type(nickname))
 
-print("Length First Name: ", len(first_name))
-print("Length Last Name: ", len(last_name))
+print("Length First Name:", len(first_name))
+print("Length Last Name:", len(last_name))
 
 num_one, num_two = 5, 4
 print(num_one, num_two)
